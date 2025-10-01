@@ -51,11 +51,11 @@ const styles =  StyleSheet.create({
     color: "white",
   },
   btn: {
-     backgroundColor: "#ffffffff",  // Buton rengi
-    paddingVertical: 12,          // Dikey padding
-    paddingHorizontal: 25,        // Yatay padding
-    borderRadius: 8,              // Köşe yuvarlama
-    alignItems: "center",         // Yazıyı ortala yatay
+     backgroundColor: "#ffffffff", 
+    paddingVertical: 12,          
+    paddingHorizontal: 25,      
+    borderRadius: 8,            
+    alignItems: "center",         
     justifyContent: "center",  
     marginTop: 40,
   }
